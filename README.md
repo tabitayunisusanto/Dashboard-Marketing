@@ -1,4 +1,5 @@
 # Dashboard-Marketing
+Tampilan dashboard dapat dilihat di https://tabita.shinyapps.io/KOMERSIAL_PEMASARAN/
 Code untuk membuat sistem informasi manajemen menggunakan R Shiny.
 Data yang digunakan adalah data dummy dengan struktur hampir sama dengan laporan keuangan.
 Data disimpan dalam google sheet yang kemudian dipanggil dalam aplikasi.
